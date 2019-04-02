@@ -1,5 +1,4 @@
 Hello, Vinay!
-Good Afternoon...!
+Good Evening...!
 Checking...Contionous integration!
-Success
-Poll scm
+Succes
