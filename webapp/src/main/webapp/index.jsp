@@ -1,4 +1,3 @@
 Hello, Vinay!
-Good Evening...!
-Checking...Contionous integration!
-Succes
+Good Evening...! Checking for Storage of artifactory
+
