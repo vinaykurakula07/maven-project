@@ -21,14 +21,6 @@
     <module>webapp</module>
   </modules>
 
-  <distributionManagement>
-    <site>
-      <id>site-server</id>
-      <name>Test Project Site</name>
-      <url>file:///tmp/maven-project-site</url>
-    </site>
-  </distributionManagement>
-
   <build>
     <plugins>
       <plugin>
@@ -220,12 +212,12 @@
     <repository>
         <id>deployment</id>
         <name>Internal Release1</name>
-        <url>http://52.66.196.78:8081/repository/all/</url>
+        <url>/http://13.233.49.31:8081/repository/maven-releases/</url>
     </repository>
     <snapshotRepository>
         <id>deployment</id>
         <name>Internal Releases</name>
-        <url>http://52.66.196.78:8081/repository/all/</url>
+        <url>http://13.233.49.31:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
 </distributionManagement>
 
