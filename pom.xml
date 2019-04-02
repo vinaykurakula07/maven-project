@@ -205,20 +205,20 @@
     <url>https://github.com/vinaykurakula07/maven-project.git</url>
   </scm>
 
- <!-- <prerequisites>
+  <prerequisites>
     <maven>3.0.3</maven>
   </prerequisites>
    <distributionManagement>
     <repository>
         <id>deployment</id>
         <name>Internal Release1</name>
-        <url>/http://13.233.250.200:8081/repository/demo-release/</url>
+        <url>http://13.233.250.200:8081/repository/demo-release/</url>
     </repository>
     <snapshotRepository>
         <id>deployment</id>
         <name>Internal Releases</name>
         <url>http://13.233.250.200:8081/repository/demo-snapshot/</url>
     </snapshotRepository>
-</distributionManagement>  -->
+</distributionManagement> 
 
 </project>
