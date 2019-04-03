@@ -218,7 +218,7 @@
     <snapshotRepository>
         <id>deployment</id>
         <name>Internal Releases</name>
-        <url>http://52.66.129.7:8081/repository/usecase-release/</url>
+        <url>http://http://13.232.122.54:8081/repository/usecase-release/</url>
     </snapshotRepository>
 </distributionManagement> 
 
